@@ -1,0 +1,169 @@
+@font-face {
+  font-family: 'Avenir-Light';
+  src: url('/css/fonts/Avenir-Book.otf');
+}
+
+@font-face {
+  font-family: 'Avenir-Heavy';
+  src: url('/css/fonts/Avenir-Heavy.otf');
+}
+
+@font-face {
+  font-family: 'Avenir-Medium';
+  src: url('/css/fonts/Avenir-Medium.otf');
+}
+
+#container{
+}
+
+.index-container{
+  margin-bottom: 40%;
+}
+
+
+.index-text-container {
+  color: white;
+  text-align: center;
+  margin-top: 22%;
+}
+
+.light {
+  font-family: 'Avenir-Light';
+  font-size: 1em;
+  margin-bottom: 0;
+}
+
+.heavy {
+  font-family: 'Avenir-Heavy';
+  color:white;
+  font-size: 3em;
+  margin-bottom: 0;
+}
+
+.medium {
+  font-family: 'Avenir-Medium';
+  color: white;
+  font-size: 2em;
+  margin-bottom: 0;
+}
+
+.top-nav {
+  padding:0;
+  text-align: center;
+}
+
+.whole-nav-bar{
+  position: fixed;
+  z-index: 10;
+}
+
+.nav-bar-text-container {
+  font-family: 'Avenir-Medium';
+  color: white;
+  text-align: center;
+  margin: 0;
+}
+
+.active-page {
+  color:#0078a0;
+}
+
+.bot-nav {
+  text-align: center; 
+}
+
+.nav-bar-text-container-s{
+  font-family: 'Avenir-Medium';
+  border:white solid 5px;
+  color: white;
+  text-align: center;
+  background-color: rgba(145,152,159,0.7);
+}
+
+.nav-bar-text-container-s:hover {
+  color:#008cba;
+  border: #008cba solid 5px;
+  background-color: white;
+}
+
+.nav-bar {
+  margin-top: 3%;
+}
+
+.nav-bar p {
+  font-size: 16px;
+}
+
+.nav-bar-small {
+  margin-top: 20%;
+  height:250px;
+}
+
+.nav-bar-small p a {
+  font-size: 26px;
+}
+
+.about-row {
+}
+
+.about-container {
+  margin-top: 8%;
+  margin-bottom: 30%;
+}
+
+.about-picture-container {
+  text-align: center;
+}
+
+.me {
+  border-radius: 180px;
+}
+
+.about-text-container, h1 {
+  color:white;
+}
+
+.skills-list {
+  list-style-type: none;
+}
+
+.skills, .skills h1 {
+  color:black;
+  background-color: white;
+  width:100%;
+  padding:0;
+}
+
+.work-row {
+}
+
+.work-container {
+  margin-top:8%;
+  margin-bottom: 40%;
+}
+
+.work-picture-container {
+  text-align: center;
+}
+
+.work-text-container {
+  color:white;
+}
+
+.contact-row {
+  background-color: white;
+  height: 200px;
+}
+
+.contact-text-container, .contact-text-container a  {
+  color: black;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.footer {
+  margin-top: 8%;
+  margin-bottom: 8%;
+  text-align: center;
+}
+
