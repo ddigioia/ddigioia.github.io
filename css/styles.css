@@ -142,6 +142,10 @@
   margin-bottom: 40%;
 }
 
+.project-links {
+  color:white;
+}
+
 .work-picture-container {
   text-align: center;
 }
@@ -164,6 +168,11 @@
 .footer {
   margin-top: 8%;
   margin-bottom: 8%;
+  text-align: center;
+}
+
+.social-icons-container {
+  margin-top: 2%;
   text-align: center;
 }
 
