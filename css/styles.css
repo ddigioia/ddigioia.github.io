@@ -142,6 +142,12 @@
   margin-bottom: 40%;
 }
 
+.what-I-can-do-header {
+  display: inline;
+  margin-left: 12%;
+  margin-top: 8%;
+}
+
 .project-links {
   color:white;
 }
